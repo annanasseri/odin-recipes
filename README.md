@@ -1,0 +1,1 @@
+this project is intended as a way to test our newly acquired knowledge and skills. We have just learned how to code HTML and we will later come back to the project to polish the look with CSS. I will need to know how to create a boilerplate, add links and images, and upload it to git and github.
